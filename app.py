@@ -21,7 +21,7 @@ PROJECTS = [
   {
     'id': 4,
     'title': 'SQL database project',
-    'description': 'A database project that tracks transactions        made by a customer'
+    'description': 'A database project that groups chronic illnesses by each ethnic group in a country'
   }
 ]
 
